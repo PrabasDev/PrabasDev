@@ -1,6 +1,7 @@
 ##Olá, sou Gabriel "PrabasDev" Baracho 
 - 🔭 Hoje estou buscando oportunidades
-- 🌱 Tenho aprendido cada vez mais Python e Tambem React
+- 🌱 Tenho aprendido cada vez mais Python e React
+- 💪 Full Stack
 - 😄 Pronouns: ele\dele
 
 <div style="display: inline_block"><br>
