@@ -1,8 +1,8 @@
-##Olá, sou Gabriel Baracho (PrabasDev)
+##Hi, I'm Gabriel Baracho (PrabasDev)
 - 🐍 Python
 - 💪 Full Stack
-- 😄 Pronouns: ele\dele
-- 💼 Realizo Trabalhos freelancer
+- 😄 Pronouns: he/him
+- 💼 Freelancer
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
