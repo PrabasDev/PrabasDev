@@ -1,5 +1,5 @@
 ##Olá, sou Gabriel Baracho (PrabasDev)
-- ❤  Python e Ciência de Dados
+- 🐍 Python
 - 💪 Full Stack
 - 😄 Pronouns: ele\dele
 - 💼 Realizo Trabalhos freelancer
