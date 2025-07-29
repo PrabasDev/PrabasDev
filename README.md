@@ -1,5 +1,5 @@
 ## Hi, I'm Gabriel Baracho (PrabasDev)
-- 🐍 Python Lover
+- ❤  Backend Lover
 - 💪 Full Stack
 - 😄 Pronouns: he/him
 - 💼 Freelancer
